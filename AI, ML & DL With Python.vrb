@@ -1,0 +1,27 @@
+\frametitle{Data Preparation}
+	\framesubtitle{Let's fix these problems}
+	\begin{enumerate}
+		\item Remove cuisines with < 50 recipes.
+		\begin{lstlisting}
+# get list of cuisines to keep
+recipes_counts = recipes["cuisine"].value_counts()
+cuisines_indices = recipes_counts > 50
+
+cuisines_to_keep = list(np.array(recipes_counts.index.values)[np.array(cuisines_indices)])			
+		\end{lstlisting}
+		\begin{lstlisting}
+rows_before = recipes.shape[0] # number of rows of original dataframe
+print("Number of rows of original dataframe is {}.".format(rows_before))
+
+recipes = recipes.loc[recipes['cuisine'].isin(cuisines_to_keep)]
+
+rows_after = recipes.shape[0] # number of rows of processed dataframe
+print("Number of rows of processed dataframe is {}.".format(rows_after))
+
+print("{} rows removed!".format(rows_before - rows_after))			
+		\end{lstlisting}
+		\item Make the cuisine names consistent.
+	\end{enumerate}
+	\begin{lstlisting}
+		
+	\end{lstlisting}

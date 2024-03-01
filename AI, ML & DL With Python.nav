@@ -1,0 +1,384 @@
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\beamer@sectionpages {1}{1}}
+\headcommand {\beamer@subsectionpages {1}{1}}
+\headcommand {\sectionentry {1}{Introduction à l'IA et au Machine Learning}{2}{Introduction à l'IA et au Machine Learning}{0}}
+\headcommand {\beamer@subsectionpages {2}{1}}
+\headcommand {\beamer@subsectionentry {0}{1}{1}{2}{Qu'est ce que l'IA?}}
+\headcommand {\beamer@subsectionpages {2}{1}}
+\headcommand {\beamer@subsectionentry {0}{1}{2}{2}{Qu'est ce que le Machine Learning?}}
+\headcommand {\beamer@subsectionpages {2}{1}}
+\headcommand {\beamer@subsectionentry {0}{1}{3}{2}{Difference entre le Machine Learning et l'IA}}
+\headcommand {\beamer@subsectionpages {2}{1}}
+\headcommand {\beamer@subsectionentry {0}{1}{4}{2}{Histoire de l'IA}}
+\headcommand {\beamer@subsectionpages {2}{1}}
+\headcommand {\beamer@subsectionentry {0}{1}{5}{2}{Approches techniques de l'IA}}
+\headcommand {\beamer@subsectionpages {2}{1}}
+\headcommand {\beamer@subsectionentry {0}{1}{6}{2}{L'IA en robotique}}
+\headcommand {\beamer@subsectionpages {2}{1}}
+\headcommand {\beamer@subsectionentry {0}{1}{7}{2}{Introduction au Big Data et son intégration avec l'IA}}
+\headcommand {\beamer@subsectionpages {2}{1}}
+\headcommand {\beamer@subsectionentry {0}{1}{8}{2}{Concepts de base de l'apprentissage automatique}}
+\headcommand {\beamer@subsectionpages {2}{1}}
+\headcommand {\beamer@subsectionentry {0}{1}{9}{2}{Types de Machine Learning}}
+\headcommand {\beamer@subsectionpages {2}{1}}
+\headcommand {\beamer@subsectionentry {0}{1}{10}{2}{Travailler avec les données}}
+\headcommand {\beamer@subsectionpages {2}{1}}
+\headcommand {\beamer@subsectionentry {0}{1}{11}{2}{Préparation des données pour l'apprentissage automatique}}
+\headcommand {\slideentry {1}{11}{1}{2/2}{Préparation des données pour l'apprentissage automatique}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\beamer@sectionpages {2}{2}}
+\headcommand {\beamer@subsectionpages {2}{2}}
+\headcommand {\sectionentry {2}{Introduction à l'IA et au Machine Learning}{3}{Introduction à l'IA et au Machine Learning}{0}}
+\headcommand {\slideentry {2}{0}{1}{3/3}{}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\beamer@subsectionpages {3}{3}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{4}{Qu'est ce que l'IA?}}
+\headcommand {\slideentry {2}{1}{1}{4/4}{Qu'est ce que l'IA?}{0}}
+\headcommand {\beamer@framepages {4}{4}}
+\headcommand {\slideentry {2}{1}{2}{5/5}{Qu'est ce que l'IA?}{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\slideentry {2}{1}{3}{6/6}{Qu'est ce que l'IA?}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\slideentry {2}{1}{4}{7/7}{Qu'est ce que l'IA?}{0}}
+\headcommand {\beamer@framepages {7}{7}}
+\headcommand {\slideentry {2}{1}{5}{8/8}{Qu'est ce que l'IA?}{0}}
+\headcommand {\beamer@framepages {8}{8}}
+\headcommand {\beamer@subsectionpages {4}{8}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{9}{Histoire de l'IA}}
+\headcommand {\slideentry {2}{2}{1}{9/9}{Histoire de l'IA}{0}}
+\headcommand {\beamer@framepages {9}{9}}
+\headcommand {\slideentry {2}{2}{2}{10/10}{Histoire de l'IA}{0}}
+\headcommand {\beamer@framepages {10}{10}}
+\headcommand {\slideentry {2}{2}{3}{11/11}{Histoire de l'IA}{0}}
+\headcommand {\beamer@framepages {11}{11}}
+\headcommand {\slideentry {2}{2}{4}{12/12}{Histoire de l'IA}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\slideentry {2}{2}{5}{13/13}{Histoire de l'IA}{0}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\beamer@subsectionpages {9}{13}}
+\headcommand {\beamer@subsectionentry {0}{2}{3}{14}{Qu'est ce que le Machine Learning?}}
+\headcommand {\slideentry {2}{3}{1}{14/14}{Qu'est ce que le Machine Learning?}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\beamer@subsectionpages {14}{14}}
+\headcommand {\beamer@subsectionentry {0}{2}{4}{15}{Approches techniques de l'IA utilisées dans le ML}}
+\headcommand {\slideentry {2}{4}{1}{15/15}{Approches techniques de l'IA utilisées dans le ML}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\beamer@subsectionpages {15}{15}}
+\headcommand {\beamer@subsectionentry {0}{2}{5}{16}{L'IA en robotique}}
+\headcommand {\slideentry {2}{5}{1}{16/16}{L'IA en robotique}{0}}
+\headcommand {\beamer@framepages {16}{16}}
+\headcommand {\beamer@subsectionpages {15}{16}}
+\headcommand {\beamer@subsectionentry {0}{2}{6}{17}{Applications de l'IA en robotique}}
+\headcommand {\slideentry {2}{6}{1}{17/17}{Applications de l'IA en robotique}{0}}
+\headcommand {\beamer@framepages {17}{17}}
+\headcommand {\slideentry {2}{6}{2}{18/18}{Applications de l'IA en robotique}{0}}
+\headcommand {\beamer@framepages {18}{18}}
+\headcommand {\slideentry {2}{6}{3}{19/19}{Applications de l'IA en robotique}{0}}
+\headcommand {\beamer@framepages {19}{19}}
+\headcommand {\slideentry {2}{6}{4}{20/20}{Applications de l'IA en robotique}{0}}
+\headcommand {\beamer@framepages {20}{20}}
+\headcommand {\beamer@sectionpages {3}{20}}
+\headcommand {\beamer@subsectionpages {17}{20}}
+\headcommand {\sectionentry {3}{Le Big Data et son intégration avec l'IA}{21}{Le Big Data et son intégration avec l'IA}{0}}
+\headcommand {\beamer@subsectionpages {21}{20}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{21}{Qu'est-ce que le Big Data ?}}
+\headcommand {\slideentry {3}{1}{1}{21/21}{Qu'est-ce que le Big Data ?}{0}}
+\headcommand {\beamer@framepages {21}{21}}
+\headcommand {\beamer@subsectionpages {21}{21}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{22}{Impact des Big Data}}
+\headcommand {\slideentry {3}{2}{1}{22/22}{Impact des Big Data}{0}}
+\headcommand {\beamer@framepages {22}{22}}
+\headcommand {\slideentry {3}{2}{2}{23/23}{Impact des Big Data}{0}}
+\headcommand {\beamer@framepages {23}{23}}
+\headcommand {\slideentry {3}{2}{3}{24/24}{Impact des Big Data}{0}}
+\headcommand {\beamer@framepages {24}{24}}
+\headcommand {\beamer@subsectionpages {22}{24}}
+\headcommand {\beamer@subsectionentry {0}{3}{3}{25}{Les influences}}
+\headcommand {\slideentry {3}{3}{1}{25/25}{Les influences}{0}}
+\headcommand {\beamer@framepages {25}{25}}
+\headcommand {\beamer@subsectionpages {25}{25}}
+\headcommand {\beamer@subsectionentry {0}{3}{4}{26}{Méthodologie du ML}}
+\headcommand {\slideentry {3}{4}{1}{26/26}{Méthodologie du ML}{0}}
+\headcommand {\beamer@framepages {26}{26}}
+\headcommand {\beamer@subsectionpages {26}{26}}
+\headcommand {\beamer@subsectionentry {0}{3}{5}{27}{Types d'apprentissages statistique}}
+\headcommand {\slideentry {3}{5}{1}{27/27}{Types d'apprentissages statistique}{0}}
+\headcommand {\beamer@framepages {27}{27}}
+\headcommand {\slideentry {3}{5}{2}{28/28}{Types d'apprentissages statistique}{0}}
+\headcommand {\beamer@framepages {28}{28}}
+\headcommand {\slideentry {3}{5}{3}{29/29}{Types d'apprentissages statistique}{0}}
+\headcommand {\beamer@framepages {29}{29}}
+\headcommand {\beamer@subsectionpages {27}{29}}
+\headcommand {\beamer@subsectionentry {0}{3}{6}{30}{Types de Machine Learning - Quiz}}
+\headcommand {\slideentry {3}{6}{1}{30/30}{Types de Machine Learning - Quiz}{0}}
+\headcommand {\beamer@framepages {30}{30}}
+\headcommand {\slideentry {3}{6}{2}{31/31}{Types de Machine Learning - Quiz}{0}}
+\headcommand {\beamer@framepages {31}{31}}
+\headcommand {\slideentry {3}{6}{3}{32/32}{Types de Machine Learning - Quiz}{0}}
+\headcommand {\beamer@framepages {32}{32}}
+\headcommand {\slideentry {3}{6}{4}{33/33}{Types de Machine Learning - Quiz}{0}}
+\headcommand {\beamer@framepages {33}{33}}
+\headcommand {\slideentry {3}{6}{5}{34/34}{Types de Machine Learning - Quiz}{0}}
+\headcommand {\beamer@framepages {34}{34}}
+\headcommand {\slideentry {3}{6}{6}{35/35}{Types de Machine Learning - Quiz}{0}}
+\headcommand {\beamer@framepages {35}{35}}
+\headcommand {\slideentry {3}{6}{7}{36/36}{Types de Machine Learning - Quiz}{0}}
+\headcommand {\beamer@framepages {36}{36}}
+\headcommand {\slideentry {3}{6}{8}{37/37}{Types de Machine Learning - Quiz}{0}}
+\headcommand {\beamer@framepages {37}{37}}
+\headcommand {\slideentry {3}{6}{9}{38/38}{Types de Machine Learning - Quiz}{0}}
+\headcommand {\beamer@framepages {38}{38}}
+\headcommand {\beamer@subsectionpages {30}{38}}
+\headcommand {\beamer@subsectionentry {0}{3}{7}{39}{Eviter les pièges en ML}}
+\headcommand {\slideentry {3}{7}{1}{39/39}{Eviter les pièges en ML}{0}}
+\headcommand {\beamer@framepages {39}{39}}
+\headcommand {\slideentry {3}{7}{2}{40/40}{Eviter les pièges en ML}{0}}
+\headcommand {\beamer@framepages {40}{40}}
+\headcommand {\slideentry {3}{7}{3}{41/41}{Eviter les pièges en ML}{0}}
+\headcommand {\beamer@framepages {41}{41}}
+\headcommand {\beamer@subsectionpages {39}{41}}
+\headcommand {\beamer@subsectionentry {0}{3}{8}{42}{Quelques modèles de ML}}
+\headcommand {\slideentry {3}{8}{1}{42/42}{Quelques modèles de ML}{0}}
+\headcommand {\beamer@framepages {42}{42}}
+\headcommand {\slideentry {3}{8}{2}{43/43}{Quelques modèles de ML}{0}}
+\headcommand {\beamer@framepages {43}{43}}
+\headcommand {\slideentry {3}{8}{3}{44/44}{Quelques modèles de ML}{0}}
+\headcommand {\beamer@framepages {44}{44}}
+\headcommand {\slideentry {3}{8}{4}{45/45}{Quelques modèles de ML}{0}}
+\headcommand {\beamer@framepages {45}{45}}
+\headcommand {\slideentry {3}{8}{5}{46/46}{Quelques modèles de ML}{0}}
+\headcommand {\beamer@framepages {46}{46}}
+\headcommand {\slideentry {3}{8}{6}{47/47}{Quelques modèles de ML}{0}}
+\headcommand {\beamer@framepages {47}{47}}
+\headcommand {\slideentry {3}{8}{7}{48/48}{Quelques modèles de ML}{0}}
+\headcommand {\beamer@framepages {48}{48}}
+\headcommand {\slideentry {3}{8}{8}{49/49}{Quelques modèles de ML}{0}}
+\headcommand {\beamer@framepages {49}{49}}
+\headcommand {\slideentry {3}{8}{9}{50/50}{Quelques modèles de ML}{0}}
+\headcommand {\beamer@framepages {50}{50}}
+\headcommand {\beamer@sectionpages {21}{50}}
+\headcommand {\beamer@subsectionpages {42}{50}}
+\headcommand {\sectionentry {4}{Artificial Intelligence and Machine Learning 2}{51}{Artificial Intelligence and Machine Learning 2}{0}}
+\headcommand {\slideentry {4}{0}{1}{51/51}{}{0}}
+\headcommand {\beamer@framepages {51}{51}}
+\headcommand {\slideentry {4}{0}{2}{52/52}{}{0}}
+\headcommand {\beamer@framepages {52}{52}}
+\headcommand {\beamer@subsectionpages {51}{52}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{53}{Introduction}}
+\headcommand {\slideentry {4}{1}{1}{53/53}{Introduction}{0}}
+\headcommand {\beamer@framepages {53}{53}}
+\headcommand {\beamer@subsectionpages {53}{53}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{54}{XAI et IML : Explicabilité dans l'IA et le ML}}
+\headcommand {\slideentry {4}{2}{1}{54/54}{XAI et IML : Explicabilité dans l'IA et le ML}{0}}
+\headcommand {\beamer@framepages {54}{54}}
+\headcommand {\slideentry {4}{2}{2}{55/55}{XAI et IML : Explicabilité dans l'IA et le ML}{0}}
+\headcommand {\beamer@framepages {55}{55}}
+\headcommand {\slideentry {4}{2}{3}{56/56}{XAI et IML : Explicabilité dans l'IA et le ML}{0}}
+\headcommand {\beamer@framepages {56}{56}}
+\headcommand {\slideentry {4}{2}{4}{57/57}{XAI et IML : Explicabilité dans l'IA et le ML}{0}}
+\headcommand {\beamer@framepages {57}{57}}
+\headcommand {\slideentry {4}{2}{5}{58/58}{XAI et IML : Explicabilité dans l'IA et le ML}{0}}
+\headcommand {\beamer@framepages {58}{58}}
+\headcommand {\slideentry {4}{2}{6}{59/59}{XAI et IML : Explicabilité dans l'IA et le ML}{0}}
+\headcommand {\beamer@framepages {59}{59}}
+\headcommand {\slideentry {4}{2}{7}{60/60}{XAI et IML : Explicabilité dans l'IA et le ML}{0}}
+\headcommand {\beamer@framepages {60}{60}}
+\headcommand {\slideentry {4}{2}{8}{61/61}{XAI et IML : Explicabilité dans l'IA et le ML}{0}}
+\headcommand {\beamer@framepages {61}{61}}
+\headcommand {\slideentry {4}{2}{9}{62/62}{XAI et IML : Explicabilité dans l'IA et le ML}{0}}
+\headcommand {\beamer@framepages {62}{62}}
+\headcommand {\slideentry {4}{2}{10}{63/63}{XAI et IML : Explicabilité dans l'IA et le ML}{0}}
+\headcommand {\beamer@framepages {63}{63}}
+\headcommand {\slideentry {4}{2}{11}{64/64}{XAI et IML : Explicabilité dans l'IA et le ML}{0}}
+\headcommand {\beamer@framepages {64}{64}}
+\headcommand {\slideentry {4}{2}{12}{65/65}{XAI et IML : Explicabilité dans l'IA et le ML}{0}}
+\headcommand {\beamer@framepages {65}{65}}
+\headcommand {\slideentry {4}{2}{13}{66/66}{XAI et IML : Explicabilité dans l'IA et le ML}{0}}
+\headcommand {\beamer@framepages {66}{66}}
+\headcommand {\slideentry {4}{2}{14}{67/67}{XAI et IML : Explicabilité dans l'IA et le ML}{0}}
+\headcommand {\beamer@framepages {67}{67}}
+\headcommand {\slideentry {4}{2}{15}{68/68}{XAI et IML : Explicabilité dans l'IA et le ML}{0}}
+\headcommand {\beamer@framepages {68}{68}}
+\headcommand {\slideentry {4}{2}{16}{69/69}{XAI et IML : Explicabilité dans l'IA et le ML}{0}}
+\headcommand {\beamer@framepages {69}{69}}
+\headcommand {\beamer@sectionpages {51}{69}}
+\headcommand {\beamer@subsectionpages {54}{69}}
+\headcommand {\sectionentry {5}{Artificial Intelligence and Machine Learning 3}{70}{Artificial Intelligence and Machine Learning 3}{0}}
+\headcommand {\slideentry {5}{0}{1}{70/70}{}{0}}
+\headcommand {\beamer@framepages {70}{70}}
+\headcommand {\slideentry {5}{0}{2}{71/71}{}{0}}
+\headcommand {\beamer@framepages {71}{71}}
+\headcommand {\beamer@subsectionpages {70}{71}}
+\headcommand {\beamer@subsectionentry {0}{5}{1}{72}{Examen des défis de l'IA}}
+\headcommand {\slideentry {5}{1}{1}{72/72}{Examen des défis de l'IA}{0}}
+\headcommand {\beamer@framepages {72}{72}}
+\headcommand {\slideentry {5}{1}{2}{73/73}{Examen des défis de l'IA}{0}}
+\headcommand {\beamer@framepages {73}{73}}
+\headcommand {\slideentry {5}{1}{3}{74/74}{Examen des défis de l'IA}{0}}
+\headcommand {\beamer@framepages {74}{74}}
+\headcommand {\slideentry {5}{1}{4}{75/75}{Examen des défis de l'IA}{0}}
+\headcommand {\beamer@framepages {75}{75}}
+\headcommand {\slideentry {5}{1}{5}{76/76}{Examen des défis de l'IA}{0}}
+\headcommand {\beamer@framepages {76}{76}}
+\headcommand {\beamer@subsectionpages {72}{76}}
+\headcommand {\beamer@subsectionentry {0}{5}{2}{77}{XAI (IA explicative)}}
+\headcommand {\slideentry {5}{2}{1}{77/77}{XAI (IA explicative)}{0}}
+\headcommand {\beamer@framepages {77}{77}}
+\headcommand {\beamer@subsectionpages {77}{77}}
+\headcommand {\beamer@subsectionentry {0}{5}{3}{78}{Natural Language Processing}}
+\headcommand {\slideentry {5}{3}{1}{78/78}{Natural Language Processing}{0}}
+\headcommand {\beamer@framepages {78}{78}}
+\headcommand {\slideentry {5}{3}{2}{79/79}{Natural Language Processing}{0}}
+\headcommand {\beamer@framepages {79}{79}}
+\headcommand {\slideentry {5}{3}{3}{80/80}{Natural Language Processing}{0}}
+\headcommand {\beamer@framepages {80}{80}}
+\headcommand {\slideentry {5}{3}{4}{81/81}{Natural Language Processing}{0}}
+\headcommand {\beamer@framepages {81}{81}}
+\headcommand {\beamer@sectionpages {70}{81}}
+\headcommand {\beamer@subsectionpages {78}{81}}
+\headcommand {\sectionentry {6}{AI and ML 4 : Cas Pratique}{82}{AI and ML 4 : Cas Pratique}{0}}
+\headcommand {\slideentry {6}{0}{1}{82/82}{}{0}}
+\headcommand {\beamer@framepages {82}{82}}
+\headcommand {\slideentry {6}{0}{2}{83/83}{}{0}}
+\headcommand {\beamer@framepages {83}{83}}
+\headcommand {\slideentry {6}{0}{3}{84/84}{}{0}}
+\headcommand {\beamer@framepages {84}{84}}
+\headcommand {\slideentry {6}{0}{4}{85/85}{}{0}}
+\headcommand {\beamer@framepages {85}{85}}
+\headcommand {\slideentry {6}{0}{5}{86/86}{}{0}}
+\headcommand {\beamer@framepages {86}{86}}
+\headcommand {\slideentry {6}{0}{6}{87/87}{}{0}}
+\headcommand {\beamer@framepages {87}{87}}
+\headcommand {\slideentry {6}{0}{7}{88/88}{}{0}}
+\headcommand {\beamer@framepages {88}{88}}
+\headcommand {\slideentry {6}{0}{8}{89/89}{}{0}}
+\headcommand {\beamer@framepages {89}{89}}
+\headcommand {\beamer@sectionpages {82}{89}}
+\headcommand {\beamer@subsectionpages {82}{89}}
+\headcommand {\sectionentry {7}{Python 1: Initiation}{90}{Python 1: Initiation}{0}}
+\headcommand {\slideentry {7}{0}{1}{90/90}{}{0}}
+\headcommand {\beamer@framepages {90}{90}}
+\headcommand {\slideentry {7}{0}{2}{91/91}{}{0}}
+\headcommand {\beamer@framepages {91}{91}}
+\headcommand {\beamer@subsectionpages {90}{91}}
+\headcommand {\beamer@subsectionentry {0}{7}{1}{92}{Machine Learning with Python}}
+\headcommand {\slideentry {7}{1}{1}{92/92}{Machine Learning with Python}{0}}
+\headcommand {\beamer@framepages {92}{92}}
+\headcommand {\slideentry {7}{1}{2}{93/93}{Machine Learning with Python}{0}}
+\headcommand {\beamer@framepages {93}{93}}
+\headcommand {\slideentry {7}{1}{3}{94/94}{Machine Learning with Python}{0}}
+\headcommand {\beamer@framepages {94}{94}}
+\headcommand {\slideentry {7}{1}{4}{95/95}{Machine Learning with Python}{0}}
+\headcommand {\beamer@framepages {95}{95}}
+\headcommand {\slideentry {7}{1}{5}{96/96}{Machine Learning with Python}{0}}
+\headcommand {\beamer@framepages {96}{96}}
+\headcommand {\slideentry {7}{1}{6}{97/97}{Machine Learning with Python}{0}}
+\headcommand {\beamer@framepages {97}{97}}
+\headcommand {\slideentry {7}{1}{7}{98/98}{Machine Learning with Python}{0}}
+\headcommand {\beamer@framepages {98}{98}}
+\headcommand {\slideentry {7}{1}{8}{99/99}{Machine Learning with Python}{0}}
+\headcommand {\beamer@framepages {99}{99}}
+\headcommand {\slideentry {7}{1}{9}{100/100}{Machine Learning with Python}{0}}
+\headcommand {\beamer@framepages {100}{100}}
+\headcommand {\slideentry {7}{1}{10}{101/101}{Machine Learning with Python}{0}}
+\headcommand {\beamer@framepages {101}{101}}
+\headcommand {\slideentry {7}{1}{11}{102/102}{Machine Learning with Python}{0}}
+\headcommand {\beamer@framepages {102}{102}}
+\headcommand {\slideentry {7}{1}{12}{103/103}{Machine Learning with Python}{0}}
+\headcommand {\beamer@framepages {103}{103}}
+\headcommand {\slideentry {7}{1}{13}{104/104}{Machine Learning with Python}{0}}
+\headcommand {\beamer@framepages {104}{104}}
+\headcommand {\slideentry {7}{1}{14}{105/105}{Machine Learning with Python}{0}}
+\headcommand {\beamer@framepages {105}{105}}
+\headcommand {\slideentry {7}{1}{15}{106/106}{Machine Learning with Python}{0}}
+\headcommand {\beamer@framepages {106}{106}}
+\headcommand {\slideentry {7}{1}{16}{107/107}{Machine Learning with Python}{0}}
+\headcommand {\beamer@framepages {107}{107}}
+\headcommand {\beamer@sectionpages {90}{107}}
+\headcommand {\beamer@subsectionpages {92}{107}}
+\headcommand {\sectionentry {8}{Python 2 : Avancé}{108}{Python 2 : Avancé}{0}}
+\headcommand {\slideentry {8}{0}{1}{108/108}{}{0}}
+\headcommand {\beamer@framepages {108}{108}}
+\headcommand {\slideentry {8}{0}{2}{109/109}{}{0}}
+\headcommand {\beamer@framepages {109}{109}}
+\headcommand {\slideentry {8}{0}{3}{110/110}{}{0}}
+\headcommand {\beamer@framepages {110}{110}}
+\headcommand {\slideentry {8}{0}{4}{111/111}{}{0}}
+\headcommand {\beamer@framepages {111}{111}}
+\headcommand {\slideentry {8}{0}{5}{112/112}{}{0}}
+\headcommand {\beamer@framepages {112}{112}}
+\headcommand {\slideentry {8}{0}{6}{113/113}{}{0}}
+\headcommand {\beamer@framepages {113}{113}}
+\headcommand {\slideentry {8}{0}{7}{114/114}{}{0}}
+\headcommand {\beamer@framepages {114}{114}}
+\headcommand {\slideentry {8}{0}{8}{115/115}{}{0}}
+\headcommand {\beamer@framepages {115}{115}}
+\headcommand {\slideentry {8}{0}{9}{116/116}{}{0}}
+\headcommand {\beamer@framepages {116}{116}}
+\headcommand {\beamer@subsectionpages {108}{116}}
+\headcommand {\beamer@subsectionentry {0}{8}{1}{117}{Deep Learning and Neural Network}}
+\headcommand {\slideentry {8}{1}{1}{117/117}{Deep Learning and Neural Network}{0}}
+\headcommand {\beamer@framepages {117}{117}}
+\headcommand {\slideentry {8}{1}{2}{118/118}{Deep Learning and Neural Network}{0}}
+\headcommand {\beamer@framepages {118}{118}}
+\headcommand {\slideentry {8}{1}{3}{119/119}{Deep Learning and Neural Network}{0}}
+\headcommand {\beamer@framepages {119}{119}}
+\headcommand {\slideentry {8}{1}{4}{120/120}{Deep Learning and Neural Network}{0}}
+\headcommand {\beamer@framepages {120}{120}}
+\headcommand {\slideentry {8}{1}{5}{121/121}{Deep Learning and Neural Network}{0}}
+\headcommand {\beamer@framepages {121}{121}}
+\headcommand {\slideentry {8}{1}{6}{122/122}{Deep Learning and Neural Network}{0}}
+\headcommand {\beamer@framepages {122}{122}}
+\headcommand {\slideentry {8}{1}{7}{123/123}{Deep Learning and Neural Network}{0}}
+\headcommand {\beamer@framepages {123}{123}}
+\headcommand {\slideentry {8}{1}{8}{124/124}{Deep Learning and Neural Network}{0}}
+\headcommand {\beamer@framepages {124}{124}}
+\headcommand {\slideentry {8}{1}{9}{125/125}{Deep Learning and Neural Network}{0}}
+\headcommand {\beamer@framepages {125}{125}}
+\headcommand {\slideentry {8}{1}{10}{126/126}{Deep Learning and Neural Network}{0}}
+\headcommand {\beamer@framepages {126}{126}}
+\headcommand {\slideentry {8}{1}{11}{127/127}{Deep Learning and Neural Network}{0}}
+\headcommand {\beamer@framepages {127}{127}}
+\headcommand {\slideentry {8}{1}{12}{128/128}{Deep Learning and Neural Network}{0}}
+\headcommand {\beamer@framepages {128}{128}}
+\headcommand {\beamer@sectionpages {108}{128}}
+\headcommand {\beamer@subsectionpages {117}{128}}
+\headcommand {\sectionentry {9}{Approche technique de l'IA}{129}{Approche technique de l'IA}{0}}
+\headcommand {\slideentry {9}{0}{1}{129/129}{}{0}}
+\headcommand {\beamer@framepages {129}{129}}
+\headcommand {\slideentry {9}{0}{2}{130/130}{}{0}}
+\headcommand {\beamer@framepages {130}{130}}
+\headcommand {\slideentry {9}{0}{3}{131/131}{}{0}}
+\headcommand {\beamer@framepages {131}{131}}
+\headcommand {\slideentry {9}{0}{4}{132/132}{}{0}}
+\headcommand {\beamer@framepages {132}{132}}
+\headcommand {\slideentry {9}{0}{5}{133/133}{}{0}}
+\headcommand {\beamer@framepages {133}{133}}
+\headcommand {\slideentry {9}{0}{6}{134/134}{}{0}}
+\headcommand {\beamer@framepages {134}{134}}
+\headcommand {\slideentry {9}{0}{7}{135/135}{}{0}}
+\headcommand {\beamer@framepages {135}{135}}
+\headcommand {\slideentry {9}{0}{8}{136/136}{}{0}}
+\headcommand {\beamer@framepages {136}{136}}
+\headcommand {\slideentry {9}{0}{9}{137/137}{}{0}}
+\headcommand {\beamer@framepages {137}{137}}
+\headcommand {\slideentry {9}{0}{10}{138/138}{}{0}}
+\headcommand {\beamer@framepages {138}{138}}
+\headcommand {\slideentry {9}{0}{11}{139/139}{}{0}}
+\headcommand {\beamer@framepages {139}{139}}
+\headcommand {\slideentry {9}{0}{12}{140/140}{}{0}}
+\headcommand {\beamer@framepages {140}{140}}
+\headcommand {\slideentry {9}{0}{13}{141/141}{}{0}}
+\headcommand {\beamer@framepages {141}{141}}
+\headcommand {\slideentry {9}{0}{14}{142/142}{}{0}}
+\headcommand {\beamer@framepages {142}{142}}
+\headcommand {\slideentry {9}{0}{15}{143/143}{}{0}}
+\headcommand {\beamer@framepages {143}{143}}
+\headcommand {\slideentry {9}{0}{16}{144/144}{}{0}}
+\headcommand {\beamer@framepages {144}{144}}
+\headcommand {\beamer@partpages {1}{144}}
+\headcommand {\beamer@subsectionpages {129}{144}}
+\headcommand {\beamer@sectionpages {129}{144}}
+\headcommand {\beamer@documentpages {144}}
+\headcommand {\gdef \inserttotalframenumber {144}}
