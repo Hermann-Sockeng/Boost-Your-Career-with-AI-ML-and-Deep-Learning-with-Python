@@ -1,39 +1,14 @@
-\frametitle{Évaluation des résultats de clustering précédent}
-	\note{\begin{itemize}
-			\item \textbf{Inertie} : 327,66
-			\begin{itemize}
-				\item Valeur relativement faible, indiquant des clusters compacts
-				\item Suggère que le modèle a bien capturé la structure des données
-			\end{itemize}
-			\item \textbf{Silhouette Score} : 0,784 proche de 1
-			\begin{itemize}
-				\item Indiquant une bonne cohésion et séparation des clusters
-				\item Les points sont bien assignés à leurs clusters respectifs
-			\end{itemize}
-			\item \textbf{Indice de Calinski-Harabasz} : 314,87
-			\begin{itemize}
-				\item Valeur élevée, suggérant une bonne séparation des clusters
-				\item Le modèle a réussi à bien différencier les 4 groupes de données
-			\end{itemize}
-			\item \textbf{Conclusion} :
-			\begin{itemize}
-				\item Le modèle semble avoir bien fonctionné sur ces données
-				\item Les métriques d'évaluation indiquent des clusters compacts, bien séparés et cohérents
-				\item $K=4$ semble approprié pour cette structure de données
-			\end{itemize}
-	\end{itemize}}
-\begin{lstlisting}
-# Calcul de l'inertie
-inertia = kmeans.inertia_
-print(f"Inertie du modele : {inertia:.2f}")
-
-# Calcul du Silhouette Score
-from sklearn.metrics import silhouette_score
-silhouette = silhouette_score(X, labels)
-print(f"Silhouette Score : {silhouette:.3f}")
-
-# Calcul de l'indice de Calinski-Harabasz
-from sklearn.metrics import calinski_harabasz_score
-ch_index = calinski_harabasz_score(X, labels)
-print(f"Indice de Calinski-Harabasz : {ch_index:.2f}")
-\end{lstlisting}
+\frametitle{Keras}
+	\framesubtitle{Exemple d'utilisation pour la classification d'images MNIST}
+	\begin{lstlisting}
+# Compilation du modele
+model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])	
+	
+# Entrainement du modele
+model.fit(X_train, y_train, epochs=10, batch_size=32, validation_data=(X_test, y_test))	
+	
+# Evaluation du modele
+loss, accuracy = model.evaluate(X_test, y_test)
+print('Test loss:', loss)
+print('Test accuracy:', accuracy)
+	\end{lstlisting}

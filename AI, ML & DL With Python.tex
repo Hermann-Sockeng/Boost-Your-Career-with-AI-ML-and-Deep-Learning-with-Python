@@ -377,20 +377,14 @@
 		}
 	\centering
 	\includegraphics[width=0.6\linewidth]{PopularAI.jpeg}
-	%\caption{Les dates clés de l'Intelligence Artificielle}
 \end{frame}
 
 
 \begin{frame}{La course vers les brevets}
-	\note{\begin{itemize}
-					\item \textbf{DALL-E} : \textit{DALL-E est un modèle d'IA développé par OpenAI. Il est spécialisé dans la génération d'images à partir de descriptions textuelles, permettant de créer des images réalistes et créatives basées sur des concepts abstraits.}
-			
-			\item \textbf{Midjourney} : \textit{Midjourney est une plateforme d'IA utilisée dans le domaine du commerce électronique. Elle utilise l'apprentissage automatique pour analyser les données des clients, recommander des produits et optimiser les stratégies de vente.}
-			
-			\item \textbf{Youchat} : \textit{Youchat est une IA développée par YouAI. Elle est utilisée pour créer des chatbots conversationnels personnalisés qui peuvent interagir avec les utilisateurs, répondre aux questions et fournir des informations en temps réel.}
-			
-			\item \textbf{DeepL} : \textit{DeepL est un service de traduction en ligne basé sur l'IA. Il offre des traductions précises et naturelles dans plusieurs langues, grâce à des modèles de traduction neuronaux avancés.}
-	\end{itemize}}
+\note{\begin{itemize}
+		\item La course aux brevets en intelligence artificielle (IA) reflète l'importance stratégique de cette technologie. 
+		\item Les principaux acteurs (États-Unis, Chine, Europe, etc.) investissent massivement dans la R\&D en IA, cherchant à protéger leurs innovations par des brevets. \item Cette course aux brevets soulève des questions éthiques et de politique publique sur l'accessibilité et l'utilisation responsable de l'IA.
+\end{itemize}}
 	\centering
 	\includegraphics[width=\linewidth]{BrevetIA.jpeg}
 	%\caption{Les dates clés de l'Intelligence Artificielle}
@@ -505,15 +499,18 @@
 	\end{itemize}
 \end{frame}
 
-\frame[plain]
-{
+
+\frame[plain]{
+	\frametitle{Atlas : Un robot humanoïde aux capacités impressionnantes}
 	\centering
-	
 	\movie[width=10cm,height=7.5cm,poster]{}{AtlasGetsGripBostonDynamics.mp4}
-	
 }
+
+
+
 	
-	
+\begin{comment}
+		
 	\begin{frame}
 		\frametitle{YouTube Video}
 		
@@ -535,6 +532,7 @@
 			]{}{https://www.youtube.com/v/tF4DML7FIWk?rel=0}
 		}{https://www.youtube.com/v/tF4DML7FIWk?rel=0}
 	\end{frame}
+\end{comment}
 
 % Slide 6: Parties prenantes
 \section{Le Big Data et son intégration avec l'IA}
@@ -1789,6 +1787,21 @@ Le ML est motivé et ou soutenu par :
 		\end{column}
 	\end{columns}
 \end{frame}
+
+\frame[plain]{
+	\frametitle{L'éthique de l'IA sous la loupe de l'UNESCO}
+	\centering
+	\movie[width=10cm,height=7.5cm,poster]{}{AIethic.mp4}
+}
+\note{
+	En 2021, l'UNESCO a adopté une Recommandation sur l'éthique de l'IA, établissant un cadre mondial pour guider le développement et l'utilisation éthique de l'IA. Cette résolution aborde des questions clés telles que
+\begin{itemize}
+	\item le respect des droits de l'homme, 
+	\item la transparence des systèmes d'IA, et 
+	\item la nécessité d'une gouvernance inclusive.
+\end{itemize}
+	La course aux brevets en IA soulève des défis par rapport à ces principes éthiques, en termes d'accessibilité et d'utilisation responsable de cette technologie. Les États membres de l'UNESCO sont appelés à mettre en œuvre ces recommandations dans leurs politiques nationales.
+}
 
 \begin{frame}{Application de l'IA étroite à une décision}
 	\begin{itemize}
@@ -3823,41 +3836,166 @@ Conclusion
 		\item Présentation des frameworks TensorFlow et Keras pour le développement de modèles de Deep Learning
 		\item Explication de l'utilisation de TensorFlow pour la définition des graphes de calcul
 		\item Présentation de Keras comme une interface conviviale pour la construction de modèles de Deep Learning
-		TK.png
 	\end{itemize}
 \end{frame}
 
-\begin{frame}{Introduction à TensorFlow et Keras}
-	\begin{itemize}
-		\item TensorFlow et Keras sont deux frameworks populaires pour le développement de modèles de Deep Learning.
-		\item Ils offrent des fonctionnalités puissantes et une grande flexibilité pour la création, l'entraînement et le déploiement de modèles de Deep Learning.
-		\item Cette présentation vise à fournir une introduction à TensorFlow et Keras, en expliquant leurs caractéristiques principales, leur utilisation et leurs avantages.
-	\end{itemize}
-	\centering
-\includegraphics[width=0.5\textwidth]{TK.png}
 
+
+	\begin{frame}
+		\frametitle{Qu'est-ce que TensorFlow ?}
+		\begin{itemize}
+			\item TensorFlow est une bibliothèque open source d'apprentissage automatique développée par Google
+			\item Elle permet de créer et d'exécuter des modèles de Deep Learning
+			\item Utilise des graphes de flux de données pour le calcul parallèle et distribué
+			\item Flexible et peut être déployé sur CPU, GPU, ou appareils mobiles
+			\item Concurrent de Keras, CNTK, Caffe2 mais avec un objectif plus global
+		\end{itemize}
+		\centering
+	\includegraphics[width=0.5\textwidth]{xIp6NSz.jpg}
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Comment fonctionne TensorFlow ?}
+		\begin{itemize}
+			\item Crée un graphe de calcul avec des nœuds (opérations) et des arêtes (données)
+			\item Permet un calcul parallèle et distribué pour accélérer l'entraînement
+			\item Offre des possibilités de modélisation de haut niveau, de calcul flexible sur GPU et de visualisation
+			\item Développé à l'origine par l'équipe Google Brain pour la recherche en apprentissage automatique
+		\end{itemize}
+
+			\centering
+	\includegraphics[width=0.5\textwidth]{Tensorflow work.jpeg}
+	\end{frame}
+	
+	\begin{frame}[fragile]
+		\frametitle{Comment utiliser TensorFlow ?}
+		\begin{itemize}
+			\item Importer la bibliothèque dans votre code (Python, C++, C\#)
+\begin{lstlisting}
+import tensorflow as tf
+\end{lstlisting}	
+			\item Créer une session, ajouter des couches pour construire le graphe de calcul
+			\item Vérifier que tous les nœuds sont correctement connectés avant d'exécuter le graphe
+			\item Utiliser TensorFlow comme n'importe quelle autre bibliothèque de votre langage de programmation
+		\end{itemize}
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Avantages et inconvénients de TensorFlow}
+		\begin{itemize}
+			\item Avantages :
+			\begin{itemize}
+				\item Flexibilité, capacité de calcul parallèle et distribué
+				\item Permet d'apprendre à partir de données et faire des prédictions
+				\item Vaste écosystème avec de nombreux outils et bibliothèques complémentaires
+			\end{itemize}
+			\item Inconvénients :
+			\begin{itemize}
+				\item Courbe d'apprentissage plus élevée que d'autres outils
+				\item Nécessite une expertise en apprentissage automatique
+				\item Peut être complexe à mettre en place pour des projets simples
+			\end{itemize}
+		\end{itemize}
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Conclusion}
+		\begin{itemize}
+			\item TensorFlow est une puissante bibliothèque open source d'apprentissage automatique
+			\item Elle offre une grande flexibilité et des performances élevées grâce au calcul parallèle et distribué
+			\item Bien que plus complexe que certains outils, TensorFlow est idéal pour les projets d'apprentissage profond sophistiqués
+			\item Avec son vaste écosystème, TensorFlow s'impose comme l'un des principaux outils du domaine de l'IA
+		\end{itemize}
+	\end{frame}
+	
+
+
+
+\begin{frame}
+	\frametitle{Keras }
+	\framesubtitle{Principales caractéristiques}
+	\note{
+		Keras offre une API de haut niveau qui abstrait les détails techniques du deep learning, permettant aux développeurs de se concentrer sur la conception du modèle plutôt que sur les implémentations complexes.
+	}
+	\begin{enumerate}
+		\item \textbf{Abstraction de haut niveau}
+		\begin{itemize}
+			\item API intuitive utilisé pour construire des modèles de deep learning
+			\item Abstraction des détails techniques, permettant de se concentrer sur la conception du modèle
+		\end{itemize}
+		\item \textbf{Modularité et extensibilité}
+		\note{
+			La structure modulaire de Keras permet de construire facilement des modèles personnalisés en assemblant des briques de base. De plus, Keras est extensible, permettant aux développeurs d'ajouter de nouvelles fonctionnalités.
+		}
+		\begin{itemize}
+			\item Architecture modulaire permettant de construire facilement des modèles personnalisés
+			\item Possibilité d'étendre Keras avec de nouvelles couches, fonctions d'activation, etc.
+		\end{itemize}
+		\item \textbf{Prise en charge multi-backends}
+		\note{
+			Keras est capable d'utiliser différents backends de deep learning comme TensorFlow, CNTK et Theano. Cela offre une grande flexibilité aux développeurs dans le choix de l'infrastructure la plus adaptée à leurs besoins.
+		}
+		\begin{itemize}
+			\item Peut utiliser différents backends comme TensorFlow, CNTK et Theano
+			\item Offre une flexibilité dans le choix de l'infrastructure de deep learning
+		\end{itemize}
+		\item \textbf{Rapidité de prototypage}
+		\note{
+			Grâce à sa syntaxe simple et intuitive, Keras permet un prototypage rapide de modèles de deep learning. Cela facilite l'expérimentation et l'exploration de nouvelles architectures neuronales.
+		}
+		\begin{itemize}
+			\item Syntaxe simple et intuitive
+			\item Favorise l'expérimentation et l'exploration de nouvelles architectures
+		\end{itemize}
+	\end{enumerate}
 \end{frame}
 
 
-\begin{frame}{TensorFlow}
-	\begin{itemize}
-		\item TensorFlow est un framework open source développé par Google Brain.
-		\item Il est conçu pour la construction de modèles de Deep Learning, en particulier les réseaux de neurones.
-		\item TensorFlow offre une grande flexibilité et une architecture modulaire pour la création de graphes de calcul.
-		\item Il prend en charge le calcul distribué, permettant l'entraînement de modèles sur des clusters de machines.
-		\item TensorFlow est utilisé dans de nombreux domaines, tels que la vision par ordinateur, le traitement du langage naturel et l'apprentissage renforcé.
-	\end{itemize}
+\begin{frame}[fragile]
+	\frametitle{Keras}
+	\framesubtitle{Exemple d'utilisation pour la classification d'images MNIST}
+	\note{
+		Cet exemple montre comment utiliser Keras pour construire, entraîner et évaluer un modèle de classification d'images MNIST. Le code commence par charger les données MNIST, les normalise, puis construit un modèle séquentiel avec une couche d'aplatissement, une couche dense avec une activation ReLU, et une couche de sortie avec une activation softmax. Le modèle est ensuite compilé avec l'optimiseur Adam et la fonction de perte de l'entropie croisée catégorielle. Enfin, le modèle est entraîné pendant 10 époques avec un batch size de 32, et évalué sur l'ensemble de test.
+	}
+\begin{lstlisting}
+from keras.models import Sequential
+from keras.layers import Dense, Flatten
+from keras.datasets import mnist
+		
+# Chargement des donnees MNIST
+(X_train, y_train), (X_test, y_test)=mnist.load_data()		
+# Normalisation des donnees
+X_train = X_train / 255.0
+X_test  = X_test / 255.0
+
+# Construction du modele
+model = Sequential()
+model.add(Flatten(input_shape=(28, 28)))
+model.add(Dense(128, activation='relu'))
+model.add(Dense(10, activation='softmax'))
+
+\end{lstlisting}
+\end{frame}
+	
+\begin{frame}[fragile]
+	\frametitle{Keras}
+	\framesubtitle{Exemple d'utilisation pour la classification d'images MNIST}
+	\begin{lstlisting}
+# Compilation du modele
+model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])	 
+	
+# Entrainement du modele
+model.fit(X_train, y_train, epochs=10, batch_size=32, validation_data=(X_test, y_test))	
+	
+# Evaluation du modele
+loss, accuracy = model.evaluate(X_test, y_test)
+print('Test loss:', loss)
+print('Test accuracy:', accuracy)
+	\end{lstlisting}
 \end{frame}
 
-\begin{frame}{Keras}
-	\begin{itemize}
-		\item Keras est une interface de haut niveau pour la création de modèles de Deep Learning.
-		\item Il est conçu pour être convivial et facile à utiliser, tout en offrant une grande puissance et une flexibilité suffisante.
-		\item Keras permet de définir des modèles de manière modulaire en empilant des couches.
-		\item Il prend en charge différents types de couches, des fonctions d'activation et des fonctions de perte.
-		\item Keras est compatible avec TensorFlow, ce qui permet de bénéficier des fonctionnalités avancées de TensorFlow tout en profitant de la simplicité de Keras.
-	\end{itemize}
-\end{frame}
+
+
 
 \begin{frame}{Avantages et Utilisation}
 	\begin{itemize}

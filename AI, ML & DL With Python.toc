@@ -17,35 +17,35 @@
 \beamer@subsectionintoc {2}{4}{Approches techniques de l'IA utilisées dans le ML}{31}{0}{2}
 \beamer@subsectionintoc {2}{5}{L'IA en robotique}{33}{0}{2}
 \beamer@subsectionintoc {2}{6}{Applications de l'IA en robotique}{34}{0}{2}
-\beamer@sectionintoc {3}{Le Big Data et son intégration avec l'IA}{38}{0}{3}
-\beamer@subsectionintoc {3}{1}{Qu'est-ce que le Big Data ?}{38}{0}{3}
-\beamer@subsectionintoc {3}{2}{Impact des Big Data}{39}{0}{3}
-\beamer@subsectionintoc {3}{3}{Les influences}{43}{0}{3}
-\beamer@subsectionintoc {3}{4}{Méthodologie du Machine Learning}{45}{0}{3}
-\beamer@subsectionintoc {3}{5}{Types d'apprentissages statistique}{46}{0}{3}
-\beamer@subsectionintoc {3}{6}{Types de Machine Learning - Quiz}{48}{0}{3}
-\beamer@subsectionintoc {3}{7}{Eviter les pièges en Machine Learning}{66}{0}{3}
-\beamer@subsectionintoc {3}{8}{Quelques modèles de ML}{74}{0}{3}
-\beamer@sectionintoc {4}{Artificial Intelligence and Machine Learning 2}{86}{0}{4}
-\beamer@subsectionintoc {4}{1}{Introduction}{88}{0}{4}
-\beamer@subsectionintoc {4}{2}{XAI et IML : Explicabilité dans l'IA et le ML}{89}{0}{4}
-\beamer@sectionintoc {5}{Artificial Intelligence and Machine Learning 3}{115}{0}{5}
-\beamer@subsectionintoc {5}{1}{Examen des défis de l'IA}{118}{0}{5}
-\beamer@subsectionintoc {5}{2}{XAI (IA explicative)}{124}{0}{5}
-\beamer@subsectionintoc {5}{3}{Natural Language Processing}{125}{0}{5}
-\beamer@sectionintoc {6}{AI and ML 4 : Cas Pratique}{129}{0}{6}
-\beamer@subsectionintoc {6}{1}{Power BI}{131}{0}{6}
-\beamer@subsectionintoc {6}{2}{Chatbots avec Azure}{139}{0}{6}
-\beamer@subsectionintoc {6}{3}{Chatbots avec Dialogflow}{139}{0}{6}
-\beamer@sectionintoc {7}{Python for Machine Learning 1: Initiation}{139}{0}{7}
-\beamer@subsectionintoc {7}{1}{Machine Learning with Python}{141}{0}{7}
-\beamer@sectionintoc {8}{Python for Machine Learning 2 : Avancé}{172}{0}{8}
-\beamer@subsectionintoc {8}{1}{Introduction aux chatbots}{173}{0}{8}
-\beamer@subsectionintoc {8}{2}{Machine Learning avec Scikit-Learn}{175}{0}{8}
-\beamer@subsectionintoc {8}{3}{Deep Learning and Neural Network}{199}{0}{8}
-\beamer@sectionintoc {9}{Approche technique de l'IA}{216}{0}{9}
-\beamer@subsectionintoc {9}{1}{Principe du Machine Learning}{216}{0}{9}
-\beamer@subsectionintoc {9}{2}{Techniques d'Interpretabilité en Machine Learning (IML)}{223}{0}{9}
-\beamer@subsectionintoc {9}{3}{Deep Learning and Neural Network Principe}{226}{0}{9}
-\beamer@subsectionintoc {9}{4}{Cas pratique de NLP}{233}{0}{9}
-\beamer@subsectionintoc {9}{5}{Thank You! Any Question?}{244}{0}{9}
+\beamer@sectionintoc {3}{Le Big Data et son intégration avec l'IA}{37}{0}{3}
+\beamer@subsectionintoc {3}{1}{Qu'est-ce que le Big Data ?}{37}{0}{3}
+\beamer@subsectionintoc {3}{2}{Impact des Big Data}{38}{0}{3}
+\beamer@subsectionintoc {3}{3}{Les influences}{42}{0}{3}
+\beamer@subsectionintoc {3}{4}{Méthodologie du Machine Learning}{44}{0}{3}
+\beamer@subsectionintoc {3}{5}{Types d'apprentissages statistique}{45}{0}{3}
+\beamer@subsectionintoc {3}{6}{Types de Machine Learning - Quiz}{47}{0}{3}
+\beamer@subsectionintoc {3}{7}{Eviter les pièges en Machine Learning}{65}{0}{3}
+\beamer@subsectionintoc {3}{8}{Quelques modèles de ML}{73}{0}{3}
+\beamer@sectionintoc {4}{Artificial Intelligence and Machine Learning 2}{85}{0}{4}
+\beamer@subsectionintoc {4}{1}{Introduction}{87}{0}{4}
+\beamer@subsectionintoc {4}{2}{XAI et IML : Explicabilité dans l'IA et le ML}{88}{0}{4}
+\beamer@sectionintoc {5}{Artificial Intelligence and Machine Learning 3}{114}{0}{5}
+\beamer@subsectionintoc {5}{1}{Examen des défis de l'IA}{117}{0}{5}
+\beamer@subsectionintoc {5}{2}{XAI (IA explicative)}{125}{0}{5}
+\beamer@subsectionintoc {5}{3}{Natural Language Processing}{126}{0}{5}
+\beamer@sectionintoc {6}{AI and ML 4 : Cas Pratique}{130}{0}{6}
+\beamer@subsectionintoc {6}{1}{Power BI}{132}{0}{6}
+\beamer@subsectionintoc {6}{2}{Chatbots avec Azure}{140}{0}{6}
+\beamer@subsectionintoc {6}{3}{Chatbots avec Dialogflow}{140}{0}{6}
+\beamer@sectionintoc {7}{Python for Machine Learning 1: Initiation}{140}{0}{7}
+\beamer@subsectionintoc {7}{1}{Machine Learning with Python}{142}{0}{7}
+\beamer@sectionintoc {8}{Python for Machine Learning 2 : Avancé}{173}{0}{8}
+\beamer@subsectionintoc {8}{1}{Introduction aux chatbots}{174}{0}{8}
+\beamer@subsectionintoc {8}{2}{Machine Learning avec Scikit-Learn}{176}{0}{8}
+\beamer@subsectionintoc {8}{3}{Deep Learning and Neural Network}{200}{0}{8}
+\beamer@sectionintoc {9}{Approche technique de l'IA}{217}{0}{9}
+\beamer@subsectionintoc {9}{1}{Principe du Machine Learning}{217}{0}{9}
+\beamer@subsectionintoc {9}{2}{Techniques d'Interpretabilité en Machine Learning (IML)}{224}{0}{9}
+\beamer@subsectionintoc {9}{3}{Deep Learning and Neural Network Principe}{227}{0}{9}
+\beamer@subsectionintoc {9}{4}{Cas pratique de NLP}{241}{0}{9}
+\beamer@subsectionintoc {9}{5}{Thank You! Any Question?}{252}{0}{9}
