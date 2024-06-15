@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Boost-Your-Career-with-AI-ML-and-Deep-Learning-with-Python
 Comprehensive training on Artificial Intelligence, Machine Learning, and Deep Learning with Python. Equip yourself with essential skills for the field and explore new opportunities.
 =======
@@ -19,4 +18,3 @@ Topics covered in this training include:
 Whether you are a beginner or an experienced professional looking to broaden your skills, this training will provide you with the necessary foundation to excel in the field of AI, ML, and Deep Learning. Explore the code examples, exercises, and resources in this repository to gain hands-on experience and discover new opportunities in the rapidly evolving field of AI.
 
 Let's embark on this exciting journey together and unlock the potential of AI, ML, and Deep Learning with Python!
->>>>>>> 7b8f892 (Update README)
