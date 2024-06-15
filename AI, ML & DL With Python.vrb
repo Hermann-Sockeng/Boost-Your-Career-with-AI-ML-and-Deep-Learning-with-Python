@@ -1,0 +1,14 @@
+\frametitle{Keras}
+	\framesubtitle{Exemple d'utilisation pour la classification d'images MNIST}
+	\begin{lstlisting}
+# Compilation du modele
+model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])	
+	
+# Entrainement du modele
+model.fit(X_train, y_train, epochs=10, batch_size=32, validation_data=(X_test, y_test))	
+	
+# Evaluation du modele
+loss, accuracy = model.evaluate(X_test, y_test)
+print('Test loss:', loss)
+print('Test accuracy:', accuracy)
+	\end{lstlisting}

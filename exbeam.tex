@@ -1,0 +1,119 @@
+\documentclass[9pt]{beamer}
+
+\usetheme{uha}
+
+\usepackage[french,english]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage[loadonly]{enumitem}
+
+\newlist{perso}{enumerate}{1}
+\setlist[perso]{label=\arabic*--}
+
+\title{Titre de la présentation}
+\subtitle{Sous-titre}
+\date{Date d'aujourd'hui}
+\author{Auteur de la présentation}
+\institute{Université de Haute Alsace}
+
+\begin{document}
+
+% Title page 
+\begin{frame}[plain, noframenumbering]
+	\titlepage
+\end{frame}
+
+\section{Introduction}
+
+\begin{frame}[fragile]{beamer UHA}
+	
+	Le thème beamer uha s'inspire du thème Metropolis qui lui même s'inspire du thème HSRM de Benjamin Weiss.
+
+	Le thème se charge de la manière suivante :
+
+	\begin{verbatim}
+	\documentclass[9pt]{beamer}
+	\usetheme{uha}
+	\end{verbatim}
+\end{frame}
+
+\begin{frame}[fragile]{Section}
+	Chaque section permet de regrouper des diapositives d'un même sujet.
+	\begin{verbatim}
+	\section{Les éléments}
+	\end{verbatim}
+\end{frame}
+
+\section{Les éléments}
+
+\begin{frame}[fragile]{Typographie}
+	\begin{verbatim}
+	Le thème uha permet de mettre en \emph{valeur du texte}, 
+	de mettre en \textbf{gras du texte} et même 
+	\alert{d'alerter le lecteur}.
+	\end{verbatim}
+	Le thème uha permet de mettre en \emph{valeur du texte}, de mettre en \textbf{gras du texte} et même \alert{d'alerter le lecteur}.
+\end{frame}
+
+\begin{frame}{Les listes classiques}
+	\begin{minipage}[t]{0.45\linewidth}
+		\alert{Une liste}
+		\begin{itemize}
+				\item Premier,
+				\item Second,
+				\item Troisième.
+		\end{itemize}
+	\end{minipage}
+	\hfill
+	\begin{minipage}[t]{0.45\linewidth}
+		\alert{Une énumération}
+		\begin{enumerate}
+				\item Premier
+				\item Second
+				\item Troisième
+		\end{enumerate}
+	\end{minipage}
+	
+	\vspace{2em}
+
+	\alert{Une description}
+	\begin{description}
+			\item [UHA] Université de Haute Alsace
+			\item [EURCOR] Le campus européen
+	\end{description}
+\end{frame}
+
+
+\begin{frame}[fragile]
+	\frametitle{Personnalisation des listes avec enumitem}
+	Le paquet \alert{enumitem} peut être utilisé si et seulement l'option \alert{loadonly} est activé, comme indiqué ci-dessous.
+\begin{verbatim}
+\usepackage[loadonly]{enumitem}
+\end{verbatim}
+	Etant donné que le paquet est chargé avec l'option \alert{loadonly}, la définition de nouvelles liste devient possible.
+	\begin{perso}
+			\item Le premier,
+			\item le second.
+	\end{perso}
+\end{frame}
+
+\begin{frame}{Les blocks}
+	\begin{exampleblock}{Exemple}
+		Un exemple
+	\end{exampleblock}
+	\begin{alertblock}{Exemple}
+		Une alerte
+	\end{alertblock}
+	\begin{block}{Exemple}
+		Un block
+	\end{block}
+\end{frame}
+\end{document}
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
